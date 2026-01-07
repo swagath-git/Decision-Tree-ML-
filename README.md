@@ -11,7 +11,6 @@ The project is beginner-friendly and provides a clear understanding of how decis
   5. Matplotlib, Seaborn – for data visualization
 
 # Project Workflow
-# Importing Libraries
   1. Import all essential Python libraries required for analysis, visualization, and model building.
 
 # Loading and Exploring Data
